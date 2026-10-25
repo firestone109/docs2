@@ -9,6 +9,7 @@ site/
 !*-firmato.pdf
 # e le diapositive (presentazioni, diari di bordo), fatte fuori da LaTeX
 !**/Diari di bordo/**/*.pdf
+!**/diapositive/**/*.pdf
 
 # File temporanei di LaTeX
 *.aux
